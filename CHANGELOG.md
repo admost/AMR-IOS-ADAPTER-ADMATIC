@@ -3,6 +3,10 @@
 Changelog for AMRAdapterAdmatic. 
 PrebidMobile [changelog](https://prebid.org/product-suite/prebid-mobile/)
 
+## [2.1.6.0] - 2023-11-22
+### Updated
+- Offical release for PrebidMobile 2.1.6
+
 ## [2.1.5.0] - 2023-10-09
 ### Updated
 - Offical release for PrebidMobile 2.1.5
