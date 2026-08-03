@@ -3,6 +3,12 @@
 Changelog for AMRAdapterAdmatic. 
 PrebidMobile [changelog](https://prebid.org/product-suite/prebid-mobile/)
 
+## [3.3.0] - 2026-07-10
+### Updated
+- Offical release for PrebidMobile 3.3.0
+- Swift Package Manager support added
+- Min iOS version 13.0
+
 ## [2.1.6.0] - 2023-11-22
 ### Updated
 - Offical release for PrebidMobile 2.1.6
