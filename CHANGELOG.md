@@ -3,6 +3,11 @@
 Changelog for AMRAdapterAdmatic. 
 PrebidMobile [changelog](https://prebid.org/product-suite/prebid-mobile/)
 
+## [3.4.1] - 2026-10-26
+### Updated
+- Official release for PrebidMobile 3.4.1
+- Min iOS version 15.0 (required by PrebidMobile 3.4.x)
+
 ## [3.3.0] - 2026-07-10
 ### Updated
 - Offical release for PrebidMobile 3.3.0

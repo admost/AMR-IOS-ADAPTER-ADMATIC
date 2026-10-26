@@ -1,10 +1,10 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.5
 import PackageDescription
 
 let package = Package(
     name: "AMRAdapterAdmatic",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v15)
     ],
     products: [
         .library(
@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/admost/AMR-IOS-SDK.git", from: "1.5.25"),
-        .package(url: "https://github.com/prebid/prebid-mobile-ios.git", .exact("3.3.0"))
+        .package(url: "https://github.com/prebid/prebid-mobile-ios.git", .exact("3.4.1"))
     ],
     targets: [
         .target(
@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AMRAdapterAdmaticLib",
-            url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMATIC/releases/download/3.3.0/AMRAdapterAdmatic.xcframework.zip",
-            checksum: "30d36842f619bb704379326b8ccabb93227dd8dee161c55662364eaa0aae529a"
+            url: "https://github.com/admost/AMR-IOS-ADAPTER-ADMATIC/releases/download/3.4.1/AMRAdapterAdmatic.xcframework.zip",
+            checksum: "71d9ceb5b7b24d7ea2417eaf729024060ccf642688a899c2685cd77355b8fd32"
         )
     ]
 )

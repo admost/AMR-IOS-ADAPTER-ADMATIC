@@ -11,7 +11,7 @@ Admatic adapter for AMRSDK. Allows publishers to mediate Admatic banner, interst
 
 ## Requirements
 
-- iOS 13.0+
+- iOS 15.0+
 - Xcode 26+
 
 ## Installation
